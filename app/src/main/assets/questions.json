@@ -1,0 +1,2172 @@
+[
+  {
+    "id": 1,
+    "texto": "Qual criatura folclórica se transforma na lua cheia?",
+    "opcoes": [
+      "A) Vampiro",
+      "B) Lobisomem",
+      "C) Zumbi",
+      "D) Múmia"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0001.mp3"
+  },
+  {
+    "id": 2,
+    "texto": "Qual é a capital do Brasil?",
+    "opcoes": [
+      "A) Brasília",
+      "B) São Paulo",
+      "C) Florianópolis",
+      "D) Manaus"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Geografia",
+    "audio": "s0002.mp3"
+  },
+  {
+    "id": 3,
+    "texto": "Quem pintou a obra 'Mona Lisa'?",
+    "opcoes": [
+      "A) Vincent van Gogh",
+      "B) Pablo Picasso",
+      "C) Leonardo da Vinci",
+      "D) Michelangelo"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Arte",
+    "audio": "s0003.mp3"
+  },
+  {
+    "id": 4,
+    "texto": "Qual elemento químico tem o símbolo 'O'?",
+    "opcoes": [
+      "A) Ouro",
+      "B) Ósmio",
+      "C) Hidrogênio",
+      "D) Oxigênio"
+    ],
+    "correta": 3,
+    "nivel": "facil",
+    "categoria": "Química",
+    "audio": "s0004.mp3"
+  },
+  {
+    "id": 5,
+    "texto": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "opcoes": [
+      "A) 1987",
+      "B) 1989",
+      "C) 1991",
+      "D) 1993"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "História",
+    "audio": "s0005.mp3"
+  },
+  {
+    "id": 6,
+    "texto": "Qual é o maior planeta anão?",
+    "opcoes": [
+      "A) Plutão",
+      "B) Ceres",
+      "C) Éris",
+      "D) Haumea"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Astronomia",
+    "audio": "s0006.mp3"
+  },
+  {
+    "id": 7,
+    "texto": "Qual destes é um alimento?",
+    "opcoes": [
+      "A) Pedra",
+      "B) Areia",
+      "C) Arroz",
+      "D) Ferro"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0007.mp3"
+  },
+  {
+    "id": 8,
+    "texto": "Quantos dias tem uma semana?",
+    "opcoes": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0008.mp3"
+  },
+  {
+    "id": 9,
+    "texto": "Qual é a cor do céu em um dia claro?",
+    "opcoes": [
+      "A) Verde",
+      "B) Azul",
+      "C) Vermelho",
+      "D) Amarelo"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0009.mp3"
+  },
+  {
+    "id": 10,
+    "texto": "Qual é o maior animal terrestre?",
+    "opcoes": [
+      "A) Elefante",
+      "B) Leão",
+      "C) Cavalo",
+      "D) Urso"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0010.mp3"
+  },
+  {
+    "id": 11,
+    "texto": "Quantos meses tem um ano?",
+    "opcoes": [
+      "A) 10",
+      "B) 11",
+      "C) 12",
+      "D) 13"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0011.mp3"
+  },
+  {
+    "id": 12,
+    "texto": "Qual é o planeta em que vivemos?",
+    "opcoes": [
+      "A) Marte",
+      "B) Terra",
+      "C) Vênus",
+      "D) Júpiter"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0012.mp3"
+  },
+  {
+    "id": 13,
+    "texto": "Qual é o principal idioma falado no Brasil?",
+    "opcoes": [
+      "A) Espanhol",
+      "B) Inglês",
+      "C) Português",
+      "D) Francês"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0013.mp3"
+  },
+  {
+    "id": 14,
+    "texto": "Qual é a cor da grama?",
+    "opcoes": [
+      "A) Azul",
+      "B) Verde",
+      "C) Vermelha",
+      "D) Roxa"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0014.mp3"
+  },
+  {
+    "id": 15,
+    "texto": "Quantos olhos tem um ser humano?",
+    "opcoes": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0015.mp3"
+  },
+  {
+    "id": 16,
+    "texto": "Qual é o oceano que banha o Brasil?",
+    "opcoes": [
+      "A) Índico",
+      "B) Pacífico",
+      "C) Atlântico",
+      "D) Ártico"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0016.mp3"
+  },
+  {
+    "id": 17,
+    "texto": "Qual animal é conhecido como o rei da selva?",
+    "opcoes": [
+      "A) Tigre",
+      "B) Leão",
+      "C) Elefante",
+      "D) Lobo"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0017.mp3"
+  },
+  {
+    "id": 18,
+    "texto": "Qual é a cor do sangue humano?",
+    "opcoes": [
+      "A) Azul",
+      "B) Verde",
+      "C) Vermelho",
+      "D) Preto"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0018.mp3"
+  },
+  {
+    "id": 19,
+    "texto": "Qual é o número após o 9?",
+    "opcoes": [
+      "A) 8",
+      "B) 10",
+      "C) 11",
+      "D) 12"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0019.mp3"
+  },
+  {
+    "id": 20,
+    "texto": "Qual é o oposto de quente?",
+    "opcoes": [
+      "A) Morno",
+      "B) Frio",
+      "C) Quase quente",
+      "D) Fervendo"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0020.mp3"
+  },
+  {
+    "id": 21,
+    "texto": "Quantas horas tem um dia?",
+    "opcoes": [
+      "A) 12",
+      "B) 24",
+      "C) 36",
+      "D) 48"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0021.mp3"
+  },
+  {
+    "id": 22,
+    "texto": "Qual destes é um meio de transporte?",
+    "opcoes": [
+      "A) Mesa",
+      "B) Carro",
+      "C) Cadeira",
+      "D) Porta"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0022.mp3"
+  },
+  {
+    "id": 23,
+    "texto": "Qual é o nome do planeta vermelho?",
+    "opcoes": [
+      "A) Terra",
+      "B) Marte",
+      "C) Vênus",
+      "D) Saturno"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0023.mp3"
+  },
+  {
+    "id": 24,
+    "texto": "Qual destes é usado para escrever?",
+    "opcoes": [
+      "A) Lápis",
+      "B) Colher",
+      "C) Prato",
+      "D) Garfo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0024.mp3"
+  },
+  {
+    "id": 25,
+    "texto": "Qual é a estação mais quente do ano?",
+    "opcoes": [
+      "A) Inverno",
+      "B) Outono",
+      "C) Primavera",
+      "D) Verão"
+    ],
+    "correta": 3,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0025.mp3"
+  },
+  {
+    "id": 26,
+    "texto": "Qual é o animal que mia?",
+    "opcoes": [
+      "A) Cachorro",
+      "B) Gato",
+      "C) Cavalo",
+      "D) Vaca"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0026.mp3"
+  },
+  {
+    "id": 27,
+    "texto": "Qual é o resultado de 2 + 2?",
+    "opcoes": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0027.mp3"
+  },
+  {
+    "id": 28,
+    "texto": "Qual é o nome do satélite natural da Terra?",
+    "opcoes": [
+      "A) Sol",
+      "B) Lua",
+      "C) Marte",
+      "D) Estrela"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0028.mp3"
+  },
+  {
+    "id": 29,
+    "texto": "Qual destes é um esporte?",
+    "opcoes": [
+      "A) Futebol",
+      "B) Pintura",
+      "C) Leitura",
+      "D) Escrita"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0029.mp3"
+  },
+  {
+    "id": 30,
+    "texto": "Qual é a cor do sol visto da Terra?",
+    "opcoes": [
+      "A) Azul",
+      "B) Verde",
+      "C) Amarelo",
+      "D) Roxo"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0030.mp3"
+  },
+  {
+    "id": 31,
+    "texto": "Qual destes é um animal aquático?",
+    "opcoes": [
+      "A) Peixe",
+      "B) Cachorro",
+      "C) Gato",
+      "D) Cavalo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0031.mp3"
+  },
+  {
+    "id": 32,
+    "texto": "Qual é o líquido essencial para a vida?",
+    "opcoes": [
+      "A) Óleo",
+      "B) Água",
+      "C) Leite",
+      "D) Suco"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0032.mp3"
+  },
+  {
+    "id": 33,
+    "texto": "Qual destes é um instrumento musical?",
+    "opcoes": [
+      "A) Violão",
+      "B) Mesa",
+      "C) Porta",
+      "D) Copo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0033.mp3"
+  },
+  {
+    "id": 34,
+    "texto": "Qual é o resultado de 10 - 4?",
+    "opcoes": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0034.mp3"
+  },
+  {
+    "id": 35,
+    "texto": "Qual destes é um objeto de vestir?",
+    "opcoes": [
+      "A) Camisa",
+      "B) Mesa",
+      "C) Porta",
+      "D) Lâmpada"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0035.mp3"
+  },
+  {
+    "id": 36,
+    "texto": "Qual é a cor do leite?",
+    "opcoes": [
+      "A) Branco",
+      "B) Azul",
+      "C) Verde",
+      "D) Amarelo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0036.mp3"
+  },
+  {
+    "id": 37,
+    "texto": "Qual destes é um objeto usado para dormir?",
+    "opcoes": [
+      "A) Cama",
+      "B) Mesa",
+      "C) Cadeira",
+      "D) Estante"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0037.mp3"
+  },
+  {
+    "id": 38,
+    "texto": "Qual destes é um animal doméstico?",
+    "opcoes": [
+      "A) Leão",
+      "B) Elefante",
+      "C) Cachorro",
+      "D) Tigre"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0038.mp3"
+  },
+  {
+    "id": 39,
+    "texto": "Qual é o plural de 'casa'?",
+    "opcoes": [
+      "A) Casas",
+      "B) Casos",
+      "C) Casais",
+      "D) Casinhas"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0039.mp3"
+  },
+  {
+    "id": 40,
+    "texto": "Qual destes é uma fruta?",
+    "opcoes": [
+      "A) Cenoura",
+      "B) Maçã",
+      "C) Batata",
+      "D) Alface"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0040.mp3"
+  },
+  {
+    "id": 41,
+    "texto": "Quantos dedos temos em uma mão?",
+    "opcoes": [
+      "A) 4",
+      "B) 5",
+      "C) 6",
+      "D) 7"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0041.mp3"
+  },
+  {
+    "id": 42,
+    "texto": "Qual é a cor da banana madura?",
+    "opcoes": [
+      "A) Verde",
+      "B) Azul",
+      "C) Amarela",
+      "D) Roxa"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0042.mp3"
+  },
+  {
+    "id": 43,
+    "texto": "Qual destes é um veículo aéreo?",
+    "opcoes": [
+      "A) Carro",
+      "B) Avião",
+      "C) Bicicleta",
+      "D) Barco"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0043.mp3"
+  },
+  {
+    "id": 44,
+    "texto": "Qual é o oposto de alto?",
+    "opcoes": [
+      "A) Baixo",
+      "B) Grande",
+      "C) Forte",
+      "D) Largo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0044.mp3"
+  },
+  {
+    "id": 45,
+    "texto": "Qual destes é um número par?",
+    "opcoes": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 8"
+    ],
+    "correta": 3,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0045.mp3"
+  },
+  {
+    "id": 46,
+    "texto": "Qual é o animal que late?",
+    "opcoes": [
+      "A) Gato",
+      "B) Vaca",
+      "C) Cachorro",
+      "D) Cavalo"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0046.mp3"
+  },
+  {
+    "id": 47,
+    "texto": "Qual destes é um material escolar?",
+    "opcoes": [
+      "A) Borracha",
+      "B) Martelo",
+      "C) Panela",
+      "D) Faca"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0047.mp3"
+  },
+  {
+    "id": 48,
+    "texto": "Qual é a cor do carvão?",
+    "opcoes": [
+      "A) Branco",
+      "B) Preto",
+      "C) Azul",
+      "D) Verde"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0048.mp3"
+  },
+  {
+    "id": 49,
+    "texto": "Qual destes é um dia da semana?",
+    "opcoes": [
+      "A) Janeiro",
+      "B) Segunda-feira",
+      "C) 2024",
+      "D) Dez"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0049.mp3"
+  },
+  {
+    "id": 50,
+    "texto": "Qual é o resultado de 5 + 3?",
+    "opcoes": [
+      "A) 6",
+      "B) 7",
+      "C) 8",
+      "D) 9"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0050.mp3"
+  },
+  {
+    "id": 51,
+    "texto": "Qual destes é um utensílio de cozinha?",
+    "opcoes": [
+      "A) Colher",
+      "B) Livro",
+      "C) Sapato",
+      "D) Bola"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0051.mp3"
+  },
+  {
+    "id": 52,
+    "texto": "Qual é a cor da neve?",
+    "opcoes": [
+      "A) Azul",
+      "B) Branca",
+      "C) Verde",
+      "D) Preta"
+    ],
+    "correta": 1,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0052.mp3"
+  },
+  {
+    "id": 53,
+    "texto": "Qual destes é um meio de comunicação?",
+    "opcoes": [
+      "A) Telefone",
+      "B) Pedra",
+      "C) Areia",
+      "D) Madeira"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0053.mp3"
+  },
+  {
+    "id": 54,
+    "texto": "Qual destes é um animal que voa?",
+    "opcoes": [
+      "A) Cachorro",
+      "B) Gato",
+      "C) Pássaro",
+      "D) Cavalo"
+    ],
+    "correta": 2,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0054.mp3"
+  },
+  {
+    "id": 55,
+    "texto": "Qual destes é um animal que vive na água?",
+    "opcoes": [
+      "A) Peixe",
+      "B) Cachorro",
+      "C) Gato",
+      "D) Cavalo"
+    ],
+    "correta": 0,
+    "nivel": "facil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0055.mp3"
+  },
+  {
+    "id": 56,
+    "texto": "Quem foi o primeiro homem a pisar na Lua?",
+    "opcoes": [
+      "A) Yuri Gagarin",
+      "B) Buzz Aldrin",
+      "C) Neil Armstrong",
+      "D) John Glenn"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0056.mp3"
+  },
+  {
+    "id": 57,
+    "texto": "Qual é a capital da Alemanha?",
+    "opcoes": [
+      "A) Berlim",
+      "B) Munique",
+      "C) Frankfurt",
+      "D) Hamburgo"
+    ],
+    "correta": 0,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0057.mp3"
+  },
+  {
+    "id": 58,
+    "texto": "Qual é o símbolo químico do ouro?",
+    "opcoes": [
+      "A) Au",
+      "B) Ag",
+      "C) Fe",
+      "D) O"
+    ],
+    "correta": 0,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0058.mp3"
+  },
+  {
+    "id": 59,
+    "texto": "Quantos continentes existem?",
+    "opcoes": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0059.mp3"
+  },
+  {
+    "id": 60,
+    "texto": "Qual é a capital da França?",
+    "opcoes": [
+      "A) Roma",
+      "B) Madri",
+      "C) Paris",
+      "D) Lisboa"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0060.mp3"
+  },
+  {
+    "id": 61,
+    "texto": "Qual planeta é conhecido como gigante gasoso?",
+    "opcoes": [
+      "A) Marte",
+      "B) Terra",
+      "C) Júpiter",
+      "D) Mercúrio"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0061.mp3"
+  },
+  {
+    "id": 62,
+    "texto": "Qual é o idioma mais falado no mundo?",
+    "opcoes": [
+      "A) Inglês",
+      "B) Espanhol",
+      "C) Mandarim",
+      "D) Árabe"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0062.mp3"
+  },
+  {
+    "id": 63,
+    "texto": "Qual país é conhecido como Terra do Sol Nascente?",
+    "opcoes": [
+      "A) China",
+      "B) Japão",
+      "C) Coreia",
+      "D) Tailândia"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0063.mp3"
+  },
+  {
+    "id": 64,
+    "texto": "Qual é o rio mais longo do mundo?",
+    "opcoes": [
+      "A) Amazonas",
+      "B) Nilo",
+      "C) Yangtzé",
+      "D) Mississipi"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0064.mp3"
+  },
+  {
+    "id": 65,
+    "texto": "Quem escreveu 'Dom Quixote'?",
+    "opcoes": [
+      "A) Cervantes",
+      "B) Shakespeare",
+      "C) Machado de Assis",
+      "D) Tolkien"
+    ],
+    "correta": 0,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0065.mp3"
+  },
+  {
+    "id": 66,
+    "texto": "Qual é o menor país do mundo?",
+    "opcoes": [
+      "A) Mônaco",
+      "B) Vaticano",
+      "C) Malta",
+      "D) Luxemburgo"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0066.mp3"
+  },
+  {
+    "id": 67,
+    "texto": "Qual é o elemento químico mais abundante no universo?",
+    "opcoes": [
+      "A) Oxigênio",
+      "B) Carbono",
+      "C) Hidrogênio",
+      "D) Hélio"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0067.mp3"
+  },
+  {
+    "id": 68,
+    "texto": "Qual é a moeda dos Estados Unidos?",
+    "opcoes": [
+      "A) Euro",
+      "B) Peso",
+      "C) Dólar",
+      "D) Libra"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0068.mp3"
+  },
+  {
+    "id": 69,
+    "texto": "Quantos lados tem um hexágono?",
+    "opcoes": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0069.mp3"
+  },
+  {
+    "id": 70,
+    "texto": "Qual é o maior deserto do mundo?",
+    "opcoes": [
+      "A) Saara",
+      "B) Antártida",
+      "C) Gobi",
+      "D) Kalahari"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0070.mp3"
+  },
+  {
+    "id": 71,
+    "texto": "Quem descobriu o Brasil?",
+    "opcoes": [
+      "A) Cristóvão Colombo",
+      "B) Pedro Álvares Cabral",
+      "C) Vasco da Gama",
+      "D) Fernão de Magalhães"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0071.mp3"
+  },
+  {
+    "id": 72,
+    "texto": "Qual é o maior órgão do corpo humano?",
+    "opcoes": [
+      "A) Coração",
+      "B) Pele",
+      "C) Fígado",
+      "D) Pulmão"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0072.mp3"
+  },
+  {
+    "id": 73,
+    "texto": "Qual é a capital da Itália?",
+    "opcoes": [
+      "A) Milão",
+      "B) Roma",
+      "C) Veneza",
+      "D) Nápoles"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0073.mp3"
+  },
+  {
+    "id": 74,
+    "texto": "Qual é a montanha mais alta do mundo?",
+    "opcoes": [
+      "A) Everest",
+      "B) K2",
+      "C) Kilimanjaro",
+      "D) Andes"
+    ],
+    "correta": 0,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0074.mp3"
+  },
+  {
+    "id": 75,
+    "texto": "Qual é o idioma oficial da Argentina?",
+    "opcoes": [
+      "A) Português",
+      "B) Inglês",
+      "C) Espanhol",
+      "D) Francês"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0075.mp3"
+  },
+  {
+    "id": 76,
+    "texto": "Qual é o principal gás da atmosfera terrestre?",
+    "opcoes": [
+      "A) Oxigênio",
+      "B) Nitrogênio",
+      "C) Dióxido de carbono",
+      "D) Hidrogênio"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0076.mp3"
+  },
+  {
+    "id": 77,
+    "texto": "Qual é o maior vulcão ativo do mundo?",
+    "opcoes": [
+      "A) Etna",
+      "B) Vesúvio",
+      "C) Mauna Loa",
+      "D) Fuji"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0077.mp3"
+  },
+  {
+    "id": 78,
+    "texto": "Qual é o resultado de 100 ÷ 4?",
+    "opcoes": [
+      "A) 20",
+      "B) 25",
+      "C) 30",
+      "D) 40"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0078.mp3"
+  },
+  {
+    "id": 79,
+    "texto": "Qual é o idioma oficial do México?",
+    "opcoes": [
+      "A) Inglês",
+      "B) Espanhol",
+      "C) Francês",
+      "D) Português"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0079.mp3"
+  },
+  {
+    "id": 80,
+    "texto": "Qual é o maior planeta rochoso do sistema solar?",
+    "opcoes": [
+      "A) Marte",
+      "B) Terra",
+      "C) Vênus",
+      "D) Mercúrio"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0080.mp3"
+  },
+  {
+    "id": 81,
+    "texto": "Qual é o menor planeta do sistema solar?",
+    "opcoes": [
+      "A) Marte",
+      "B) Mercúrio",
+      "C) Vênus",
+      "D) Netuno"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0081.mp3"
+  },
+  {
+    "id": 82,
+    "texto": "Quantos estados tem o Brasil?",
+    "opcoes": [
+      "A) 25",
+      "B) 26",
+      "C) 27",
+      "D) 28"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0082.mp3"
+  },
+  {
+    "id": 83,
+    "texto": "Qual é o maior país do mundo em área?",
+    "opcoes": [
+      "A) China",
+      "B) Estados Unidos",
+      "C) Rússia",
+      "D) Canadá"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0083.mp3"
+  },
+  {
+    "id": 84,
+    "texto": "Qual é o maior arquipélago do mundo?",
+    "opcoes": [
+      "A) Japão",
+      "B) Filipinas",
+      "C) Indonésia",
+      "D) Maldivas"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0084.mp3"
+  },
+  {
+    "id": 85,
+    "texto": "Qual destes animais é um mamífero?",
+    "opcoes": [
+      "A) Tubarão",
+      "B) Golfinho",
+      "C) Tartaruga",
+      "D) Galinha"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0085.mp3"
+  },
+  {
+    "id": 86,
+    "texto": "Qual é o resultado de 12 x 8?",
+    "opcoes": [
+      "A) 84",
+      "B) 96",
+      "C) 108",
+      "D) 112"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0086.mp3"
+  },
+  {
+    "id": 87,
+    "texto": "Em qual continente fica o Egito?",
+    "opcoes": [
+      "A) Ásia",
+      "B) Europa",
+      "C) África",
+      "D) América"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0087.mp3"
+  },
+  {
+    "id": 88,
+    "texto": "Qual é a capital do Canadá?",
+    "opcoes": [
+      "A) Toronto",
+      "B) Vancouver",
+      "C) Ottawa",
+      "D) Montreal"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0088.mp3"
+  },
+  {
+    "id": 89,
+    "texto": "Qual é o resultado de 9 x 9?",
+    "opcoes": [
+      "A) 72",
+      "B) 81",
+      "C) 90",
+      "D) 99"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0089.mp3"
+  },
+  {
+    "id": 90,
+    "texto": "Qual é o principal idioma da Alemanha?",
+    "opcoes": [
+      "A) Inglês",
+      "B) Alemão",
+      "C) Francês",
+      "D) Italiano"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0090.mp3"
+  },
+  {
+    "id": 91,
+    "texto": "Qual é a fórmula do dióxido de carbono?",
+    "opcoes": [
+      "A) CO",
+      "B) CO2",
+      "C) O2",
+      "D) H2O"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0091.mp3"
+  },
+  {
+    "id": 92,
+    "texto": "Qual é o país mais populoso do mundo?",
+    "opcoes": [
+      "A) Índia",
+      "B) Estados Unidos",
+      "C) China",
+      "D) Indonésia"
+    ],
+    "correta": 0,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0092.mp3"
+  },
+  {
+    "id": 93,
+    "texto": "Qual é a capital de Portugal?",
+    "opcoes": [
+      "A) Porto",
+      "B) Lisboa",
+      "C) Faro",
+      "D) Braga"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0093.mp3"
+  },
+  {
+    "id": 94,
+    "texto": "Qual é o resultado de 15 ÷ 3?",
+    "opcoes": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0094.mp3"
+  },
+  {
+    "id": 95,
+    "texto": "Qual destes é um país europeu?",
+    "opcoes": [
+      "A) Japão",
+      "B) Brasil",
+      "C) Alemanha",
+      "D) Egito"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0095.mp3"
+  },
+  {
+    "id": 96,
+    "texto": "Qual é o maior lago do mundo?",
+    "opcoes": [
+      "A) Superior",
+      "B) Vitória",
+      "C) Cáspio",
+      "D) Baikal"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0096.mp3"
+  },
+  {
+    "id": 97,
+    "texto": "Qual é a capital da Austrália?",
+    "opcoes": [
+      "A) Sydney",
+      "B) Melbourne",
+      "C) Canberra",
+      "D) Perth"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0097.mp3"
+  },
+  {
+    "id": 98,
+    "texto": "Qual é o metal líquido à temperatura ambiente?",
+    "opcoes": [
+      "A) Ferro",
+      "B) Ouro",
+      "C) Mercúrio",
+      "D) Prata"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0098.mp3"
+  },
+  {
+    "id": 99,
+    "texto": "Qual é o resultado de 9 ÷ 9?",
+    "opcoes": [
+      "A) 2",
+      "B) 1",
+      "C) 0",
+      "D) 9"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0099.mp3"
+  },
+  {
+    "id": 100,
+    "texto": "Qual é o país conhecido como país do Futebol?",
+    "opcoes": [
+      "A) Argentina",
+      "B) Brasil",
+      "C) Espanha",
+      "D) Itália"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0100.mp3"
+  },
+  {
+    "id": 101,
+    "texto": "Qual é a capital da Rússia?",
+    "opcoes": [
+      "A) São Petersburgo",
+      "B) Moscou",
+      "C) Kiev",
+      "D) Minsk"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0101.mp3"
+  },
+  {
+    "id": 102,
+    "texto": "Qual destes elementos é um gás nobre?",
+    "opcoes": [
+      "A) Oxigênio",
+      "B) Nitrogênio",
+      "C) Hélio",
+      "D) Carbono"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0102.mp3"
+  },
+  {
+    "id": 103,
+    "texto": "Qual é o maior país da América do Sul?",
+    "opcoes": [
+      "A) Argentina",
+      "B) Peru",
+      "C) Brasil",
+      "D) Colômbia"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0103.mp3"
+  },
+  {
+    "id": 104,
+    "texto": "Qual é o nome da camada mais externa da Terra?",
+    "opcoes": [
+      "A) Núcleo",
+      "B) Manto",
+      "C) Crosta",
+      "D) Estratosfera"
+    ],
+    "correta": 2,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0104.mp3"
+  },
+  {
+    "id": 105,
+    "texto": "Qual é o maior mamífero do mundo?",
+    "opcoes": [
+      "A) Elefante africano",
+      "B) Baleia azul",
+      "C) Girafa",
+      "D) Hipopótamo"
+    ],
+    "correta": 1,
+    "nivel": "medio",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0105.mp3"
+  },
+  {
+    "id": 106,
+    "texto": "Qual é o elemento químico de número atômico 92?",
+    "opcoes": [
+      "A) Urânio",
+      "B) Tório",
+      "C) Plutônio",
+      "D) Rádio"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0106.mp3"
+  },
+  {
+    "id": 107,
+    "texto": "Quem foi o primeiro imperador romano?",
+    "opcoes": [
+      "A) Júlio César",
+      "B) Augusto",
+      "C) Nero",
+      "D) Calígula"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0107.mp3"
+  },
+  {
+    "id": 108,
+    "texto": "Qual é o maior osso do corpo humano?",
+    "opcoes": [
+      "A) Fêmur",
+      "B) Tíbia",
+      "C) Úmero",
+      "D) Rádio"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0108.mp3"
+  },
+  {
+    "id": 109,
+    "texto": "Qual é a capital da Mongólia?",
+    "opcoes": [
+      "A) Astana",
+      "B) Ulaanbaatar",
+      "C) Bishkek",
+      "D) Tashkent"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0109.mp3"
+  },
+  {
+    "id": 110,
+    "texto": "Quem escreveu 'A Divina Comédia'?",
+    "opcoes": [
+      "A) Dante Alighieri",
+      "B) Homero",
+      "C) Virgílio",
+      "D) Boccaccio"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0110.mp3"
+  },
+  {
+    "id": 111,
+    "texto": "Qual é o país com maior número de fusos horários?",
+    "opcoes": [
+      "A) Rússia",
+      "B) Estados Unidos",
+      "C) França",
+      "D) China"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0111.mp3"
+  },
+  {
+    "id": 112,
+    "texto": "Qual é o valor aproximado da constante de Planck?",
+    "opcoes": [
+      "A) 6,63×10^-34",
+      "B) 3,00×10^8",
+      "C) 9,81",
+      "D) 1,60×10^-19"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0112.mp3"
+  },
+  {
+    "id": 113,
+    "texto": "Qual foi a primeira civilização a desenvolver a escrita?",
+    "opcoes": [
+      "A) Egípcia",
+      "B) Grega",
+      "C) Suméria",
+      "D) Romana"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0113.mp3"
+  },
+  {
+    "id": 114,
+    "texto": "Qual é o ponto mais profundo dos oceanos?",
+    "opcoes": [
+      "A) Fossa das Marianas",
+      "B) Fossa de Tonga",
+      "C) Fossa de Java",
+      "D) Fossa de Porto Rico"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0114.mp3"
+  },
+  {
+    "id": 115,
+    "texto": "Qual é o idioma oficial da Islândia?",
+    "opcoes": [
+      "A) Norueguês",
+      "B) Sueco",
+      "C) Islandês",
+      "D) Dinamarquês"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0115.mp3"
+  },
+  {
+    "id": 116,
+    "texto": "Qual cientista formulou as leis do movimento?",
+    "opcoes": [
+      "A) Einstein",
+      "B) Newton",
+      "C) Galileu",
+      "D) Kepler"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0116.mp3"
+  },
+  {
+    "id": 117,
+    "texto": "Qual é o nome da galáxia em que vivemos?",
+    "opcoes": [
+      "A) Andrômeda",
+      "B) Via Láctea",
+      "C) Órion",
+      "D) Centauro"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0117.mp3"
+  },
+  {
+    "id": 118,
+    "texto": "Qual país tem o maior PIB nominal do mundo?",
+    "opcoes": [
+      "A) China",
+      "B) Japão",
+      "C) Alemanha",
+      "D) Estados Unidos"
+    ],
+    "correta": 3,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0118.mp3"
+  },
+  {
+    "id": 119,
+    "texto": "Qual é o maior lago de água doce em volume?",
+    "opcoes": [
+      "A) Lago Superior",
+      "B) Lago Vitória",
+      "C) Lago Baikal",
+      "D) Lago Michigan"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0119.mp3"
+  },
+  {
+    "id": 120,
+    "texto": "Qual filósofo escreveu 'A República'?",
+    "opcoes": [
+      "A) Aristóteles",
+      "B) Platão",
+      "C) Sócrates",
+      "D) Epicuro"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0120.mp3"
+  },
+  {
+    "id": 121,
+    "texto": "Qual é o menor osso do corpo humano?",
+    "opcoes": [
+      "A) Estribo",
+      "B) Martelo",
+      "C) Bigorna",
+      "D) Clavícula"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0121.mp3"
+  },
+  {
+    "id": 122,
+    "texto": "Qual é a capital da Nova Zelândia?",
+    "opcoes": [
+      "A) Auckland",
+      "B) Wellington",
+      "C) Christchurch",
+      "D) Hamilton"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0122.mp3"
+  },
+  {
+    "id": 123,
+    "texto": "Qual é o maior país da América do Norte?",
+    "opcoes": [
+      "A) Estados Unidos",
+      "B) Canadá",
+      "C) México",
+      "D) Groenlândia"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0123.mp3"
+  },
+  {
+    "id": 124,
+    "texto": "Quem foi o autor de '1984'?",
+    "opcoes": [
+      "A) Aldous Huxley",
+      "B) George Orwell",
+      "C) Ray Bradbury",
+      "D) H.G. Wells"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0124.mp3"
+  },
+  {
+    "id": 125,
+    "texto": "Qual é o maior deserto quente do mundo?",
+    "opcoes": [
+      "A) Saara",
+      "B) Arábia",
+      "C) Kalahari",
+      "D) Gobi"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0125.mp3"
+  },
+  {
+    "id": 126,
+    "texto": "Qual país inventou o papel?",
+    "opcoes": [
+      "A) Egito",
+      "B) China",
+      "C) Índia",
+      "D) Grécia"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0126.mp3"
+  },
+  {
+    "id": 127,
+    "texto": "Qual é a capital da Bélgica?",
+    "opcoes": [
+      "A) Bruxelas",
+      "B) Antuérpia",
+      "C) Bruges",
+      "D) Ghent"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0127.mp3"
+  },
+  {
+    "id": 128,
+    "texto": "Qual é o nome do processo de divisão celular?",
+    "opcoes": [
+      "A) Osmose",
+      "B) Mitose",
+      "C) Fotossíntese",
+      "D) Digestão"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0128.mp3"
+  },
+  {
+    "id": 129,
+    "texto": "Qual foi o ano da Revolução Francesa?",
+    "opcoes": [
+      "A) 1776",
+      "B) 1789",
+      "C) 1804",
+      "D) 1815"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0129.mp3"
+  },
+  {
+    "id": 130,
+    "texto": "Qual é o maior animal terrestre que já existiu?",
+    "opcoes": [
+      "A) Tiranossauro Rex",
+      "B) Argentinosaurus",
+      "C) Braquiossauro",
+      "D) Espinossauro"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0130.mp3"
+  },
+  {
+    "id": 131,
+    "texto": "Qual é a capital da Finlândia?",
+    "opcoes": [
+      "A) Oslo",
+      "B) Helsinque",
+      "C) Estocolmo",
+      "D) Copenhague"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0131.mp3"
+  },
+  {
+    "id": 132,
+    "texto": "Qual é o elemento químico com símbolo 'K'?",
+    "opcoes": [
+      "A) Potássio",
+      "B) Cálcio",
+      "C) Criptônio",
+      "D) Cobalto"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0132.mp3"
+  },
+  {
+    "id": 133,
+    "texto": "Qual é o maior satélite natural de Saturno?",
+    "opcoes": [
+      "A) Europa",
+      "B) Titã",
+      "C) Io",
+      "D) Ganimedes"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0133.mp3"
+  },
+  {
+    "id": 134,
+    "texto": "Quem formulou a teoria da relatividade?",
+    "opcoes": [
+      "A) Newton",
+      "B) Einstein",
+      "C) Tesla",
+      "D) Bohr"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0134.mp3"
+  },
+  {
+    "id": 135,
+    "texto": "Qual é o país mais antigo do mundo ainda existente?",
+    "opcoes": [
+      "A) Egito",
+      "B) China",
+      "C) Japão",
+      "D) Grécia"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0135.mp3"
+  },
+  {
+    "id": 136,
+    "texto": "Qual é o maior recife de coral do mundo?",
+    "opcoes": [
+      "A) Caribe",
+      "B) Grande Barreira de Coral",
+      "C) Mar Vermelho",
+      "D) Filipinas"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0136.mp3"
+  },
+  {
+    "id": 137,
+    "texto": "Qual é o número de ossos no corpo humano adulto?",
+    "opcoes": [
+      "A) 206",
+      "B) 210",
+      "C) 198",
+      "D) 215"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0137.mp3"
+  },
+  {
+    "id": 138,
+    "texto": "Qual é a capital da Noruega?",
+    "opcoes": [
+      "A) Oslo",
+      "B) Bergen",
+      "C) Trondheim",
+      "D) Stavanger"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0138.mp3"
+  },
+  {
+    "id": 139,
+    "texto": "Qual é o maior lago da África?",
+    "opcoes": [
+      "A) Vitória",
+      "B) Tanganica",
+      "C) Malawi",
+      "D) Chade"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0139.mp3"
+  },
+  {
+    "id": 140,
+    "texto": "Qual é o idioma oficial da Suíça?",
+    "opcoes": [
+      "A) Alemão",
+      "B) Francês",
+      "C) Italiano",
+      "D) Todas as opções"
+    ],
+    "correta": 3,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0140.mp3"
+  },
+  {
+    "id": 141,
+    "texto": "Qual é o maior rio da Europa?",
+    "opcoes": [
+      "A) Danúbio",
+      "B) Volga",
+      "C) Reno",
+      "D) Sena"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0141.mp3"
+  },
+  {
+    "id": 142,
+    "texto": "Qual é o país com maior número de ilhas?",
+    "opcoes": [
+      "A) Indonésia",
+      "B) Filipinas",
+      "C) Suécia",
+      "D) Noruega"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0142.mp3"
+  },
+  {
+    "id": 143,
+    "texto": "Qual é a capital da Turquia?",
+    "opcoes": [
+      "A) Istambul",
+      "B) Ancara",
+      "C) Izmir",
+      "D) Bursa"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0143.mp3"
+  },
+  {
+    "id": 144,
+    "texto": "Qual destes lagos fica na África?",
+    "opcoes": [
+      "A) Vitória",
+      "B) Tanganica",
+      "C) Malawi",
+      "D) Chade"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0144.mp3"
+  },
+  {
+    "id": 145,
+    "texto": "Qual é o principal componente do Sol?",
+    "opcoes": [
+      "A) Oxigênio",
+      "B) Hidrogênio",
+      "C) Hélio",
+      "D) Carbono"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0145.mp3"
+  },
+  {
+    "id": 146,
+    "texto": "Qual é a capital da Coreia do Sul?",
+    "opcoes": [
+      "A) Busan",
+      "B) Seul",
+      "C) Incheon",
+      "D) Daegu"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0146.mp3"
+  },
+  {
+    "id": 147,
+    "texto": "Qual é o nome do maior deserto de gelo do mundo?",
+    "opcoes": [
+      "A) Antártida",
+      "B) Ártico",
+      "C) Groenlândia",
+      "D) Sibéria"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0147.mp3"
+  },
+  {
+    "id": 148,
+    "texto": "Qual é o maior país da África?",
+    "opcoes": [
+      "A) Nigéria",
+      "B) Argélia",
+      "C) Sudão",
+      "D) Egito"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0148.mp3"
+  },
+  {
+    "id": 149,
+    "texto": "Qual é a capital da Polônia?",
+    "opcoes": [
+      "A) Cracóvia",
+      "B) Varsóvia",
+      "C) Gdansk",
+      "D) Lodz"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0149.mp3"
+  },
+  {
+    "id": 150,
+    "texto": "Qual é o maior planeta gasoso depois de Júpiter?",
+    "opcoes": [
+      "A) Saturno",
+      "B) Netuno",
+      "C) Urano",
+      "D) Marte"
+    ],
+    "correta": 0,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0150.mp3"
+  },
+  {
+    "id": 151,
+    "texto": "Qual é a capital da Hungria?",
+    "opcoes": [
+      "A) Praga",
+      "B) Budapeste",
+      "C) Viena",
+      "D) Zagreb"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0151.mp3"
+  },
+  {
+    "id": 152,
+    "texto": "Qual é o nome do tratado que encerrou a 1ª Guerra Mundial?",
+    "opcoes": [
+      "A) Tratado de Tordesilhas",
+      "B) Tratado de Versalhes",
+      "C) Tratado de Paris",
+      "D) Tratado de Utrecht"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0152.mp3"
+  },
+  {
+    "id": 153,
+    "texto": "Qual é o elemento químico com o menor número atômico?",
+    "opcoes": [
+      "A) Hélio",
+      "B) Hidrogênio",
+      "C) Lítio",
+      "D) Oxigênio"
+    ],
+    "correta": 1,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0153.mp3"
+  },
+  {
+    "id": 154,
+    "texto": "Qual é a capital da Islândia?",
+    "opcoes": [
+      "A) Oslo",
+      "B) Helsinque",
+      "C) Reykjavik",
+      "D) Copenhague"
+    ],
+    "correta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0154.mp3"
+  },
+  {
+    "id": 155,
+    "texto": "Qual é o nome do processo de conversão de vapor em líquido?",
+    "opcoes": [
+      "A) Evaporação",
+      "B) Sublimação",
+      "C) Condensação",
+      "D) Fusão"
+    ],
+    "coeta": 2,
+    "nivel": "dificil",
+    "categoria": "Conhecimento Geral",
+    "audio": "s0155.mp3"
+  }
+]

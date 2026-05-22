@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <ImageView
+        android:id="@+id/imgBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15dp"
+        android:gravity="center_vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/btnSom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🔊 SOM ON"
+            android:fontFamily="@font/comic"
+            android:background="@drawable/bg_btn_arredondado"
+            android:textColor="#FFF" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnSobre"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:text="i"
+            android:textStyle="bold"
+            android:textSize="28sp"
+            android:fontFamily="@font/comic"
+            android:background="@drawable/bg_btn_arredondado"
+            android:textColor="#FFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/painelMenuPrincipal"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_modal_arredondado"
+        android:orientation="vertical"
+        android:padding="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txtTituloMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:gravity="center"
+            android:text="NEURÔNIO A MIL"
+            android:fontFamily="@font/comic"
+            android:textColor="#00eaff"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <Button android:id="@+id/btnTemas" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Temas" android:fontFamily="@font/comic" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF" android:layout_marginBottom="10dp"/>
+        <Button android:id="@+id/btnEstatisticas" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Estatísticas e Recordes" android:fontFamily="@font/comic" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF" android:layout_marginBottom="20dp" />
+        <Button android:id="@+id/btnPadrao" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Iniciar Jogo Padrão" android:fontFamily="@font/comic" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF" android:layout_marginBottom="10dp"/>
+        <Button android:id="@+id/btnSobrevivencia" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Modo Sobrevivência" android:fontFamily="@font/comic" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Sair do Jogo"
+        android:fontFamily="@font/comic"
+        android:background="@drawable/bg_btn_arredondado"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/modalEstatisticas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E6000000"
+        android:visibility="gone"
+        android:clickable="true"
+        android:focusable="true"
+        android:elevation="10dp">
+
+        <LinearLayout
+            android:id="@+id/painelEstatisticas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:background="@drawable/bg_modal_arredondado"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <Button
+                android:id="@+id/btnFecharStats"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="end"
+                android:background="@drawable/bg_btn_arredondado"
+                android:fontFamily="@font/comic"
+                android:text="X"
+                android:textColor="#FFFFFF" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp"
+                android:weightSum="3">
+                <Button android:id="@+id/abaStatsBtn" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="Stats" android:fontFamily="@font/comic" android:textSize="12sp" android:background="@drawable/bg_btn_arredondado" android:textColor="#000"/>
+                <Button android:id="@+id/abaRecordesBtn" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="Recordes" android:fontFamily="@font/comic" android:textSize="12sp" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF"/>
+                <Button android:id="@+id/abaConquistasBtn" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="Badges" android:fontFamily="@font/comic" android:textSize="12sp" android:background="@drawable/bg_btn_arredondado" android:textColor="#FFF"/>
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/conteudoStats" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+                <TextView android:id="@+id/txtStatsAcertos" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Acertos: 0" android:fontFamily="@font/comic" android:textColor="#34c759" android:textSize="18sp" android:padding="10dp"/>
+                <TextView android:id="@+id/txtStatsErros" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Erros: 0" android:fontFamily="@font/comic" android:textColor="#ff3b30" android:textSize="18sp" android:padding="10dp"/>
+                <TextView android:id="@+id/txtStatsPrecisao" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Precisão: 0%" android:fontFamily="@font/comic" android:textColor="#00eaff" android:textSize="18sp" android:padding="10dp"/>
+                <TextView android:id="@+id/txtStatsPartidas" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Partidas: 0" android:fontFamily="@font/comic" android:textColor="#FFFFFF" android:textSize="18sp" android:padding="10dp"/>
+            </LinearLayout>
+
+            <ScrollView android:id="@+id/conteudoRecordes" android:layout_width="match_parent" android:layout_height="250dp" android:visibility="gone">
+                <TextView android:id="@+id/txtListaRecordes" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/comic" android:textColor="#FFF" android:textSize="16sp"/>
+            </ScrollView>
+
+            <ScrollView android:id="@+id/conteudoConquistas" android:layout_width="match_parent" android:layout_height="250dp" android:visibility="gone">
+                <GridLayout
+                    android:id="@+id/gridConquistas"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:columnCount="5"
+                    android:alignmentMode="alignMargins"
+                    android:padding="5dp" />
+            </ScrollView>
+        </LinearLayout>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
